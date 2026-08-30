@@ -1,2 +1,0 @@
-# ryze-data
-University data
