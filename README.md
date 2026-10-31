@@ -1,4 +1,4 @@
-Ryze University Courses Enrichment - README
+University Courses Enrichment - README
 ==============================================
 
 WHAT THIS IS
